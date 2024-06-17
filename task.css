@@ -1,0 +1,32 @@
+header{
+    font-family: monospace;
+    font-size: xx-small;
+    margin-left: 20px;
+}
+section img{
+    display: inline-block;
+    width: 400px;
+    margin-top: 0px;
+    margin-left: 70px;
+}
+section{
+    font-family: space mono;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 50px;
+    margin-left: 50px;
+    padding: 60px;
+
+}
+section button{
+    background-color: black;
+    color: gray;
+    border: none;
+    padding: 8px;
+}
+footer{
+    color: gray;
+    text-align: center;
+    margin-top: 100px;
+    font-size: medium;
+}
